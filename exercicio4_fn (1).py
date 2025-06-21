@@ -111,7 +111,7 @@ plt.legend()
 plt.grid(True)
 plt.xticks(df_plot['Ano'], rotation=45)
 plt.tight_layout()
-plt.show()
+
 
 """7) Faça os ajustes necessários e leve este projeto para a web usando GitHub e Streamlit (peso: 2,0)
 
